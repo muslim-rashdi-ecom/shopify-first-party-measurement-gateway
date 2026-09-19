@@ -1,0 +1,19 @@
+{
+  "name": "purchase",
+  "event_id": "demo-order-1001",
+  "client_id": "demo-client-7f2c",
+  "source": "shopify_web_pixel",
+  "occurred_at": "2026-09-19T12:00:00Z",
+  "properties": {
+    "currency": "AED",
+    "value": 139.0,
+    "transaction_id": "demo-order-1001",
+    "items": [{"item_id": "wireless-doorbell", "quantity": 1}]
+  },
+  "consent": {
+    "analytics_storage": true,
+    "ad_storage": true,
+    "ad_user_data": true,
+    "ad_personalization": false
+  }
+}
